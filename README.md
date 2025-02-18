@@ -1,0 +1,1 @@
+This Bash script automates the process of detecting phishing URLs by checking various sources, including URL expansion, OpenPhish, PhishTank, Google Safe Browsing, WHOIS data, SSL certificates, and scanning for suspicious content. It helps identify potential phishing threats quickly and efficiently.
